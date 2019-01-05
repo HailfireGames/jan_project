@@ -115,3 +115,6 @@ SlimeGame/Saved/Autosaves/PackageRestoreData.json
 SlimeGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 SlimeGame/Saved/Config/Windows/Engine.ini
 SlimeGame/Saved/Logs/SlimeGame.log
+SlimeGame/Saved/Logs/SlimeGame.log
+SlimeGame/Saved/Config/CrashReportClient/UE4CC-Windows-47EA73FE4F8D3B405C7617BD25153611/CrashReportClient.ini
+SlimeGame/Intermediate/CachedAssetRegistry.bin
